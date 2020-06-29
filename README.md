@@ -2,10 +2,10 @@
 iOS Messaging App. <br/>
 
 # Features:
--Allows the users to register using an email and a password <br/>
--Users can log in using the account they registered <br/>
--Users can message other users in the chat room <br/>
--Every time the app is loaded, all the pervious conversation is loaded as well.
+- Allows the users to register using an email and a password <br/>
+- Users can log in using the account they registered <br/>
+- Users can message other users in the chat room <br/>
+- Every time the app is loaded, all the pervious conversation is loaded as well.
 
 # Demo:
 
@@ -19,12 +19,12 @@ Messages: <br/>
 <a href="https://media.giphy.com/media/ZBb9QPdO8bbrRo6dkh/giphy.gif"><img src="https://media.giphy.com/media/ZBb9QPdO8bbrRo6dkh/giphy.gif"/></a>
 
 # Technology Used:
--Swift <br/>
--Cocoa Pods <br/>
--Firebase <br/>
+- Swift <br/>
+- Cocoa Pods <br/>
+- Firebase <br/>
 
 # Notes:
--This app was created for learning purposes only. <br/>
--The cocoa pod folder is not included because it was too big <br/>
--This is an app based on the FlashChat Messaging App. <br/>
--Uses MVC Pattern to organize code
+- This app was created for learning purposes only. <br/>
+- The cocoa pod folder is not included because it was too big <br/>
+- This is an app based on the FlashChat Messaging App. <br/>
+- Uses MVC Pattern to organize code
