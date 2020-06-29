@@ -9,5 +9,7 @@ Register: <br/>
 Login: <br/>
 <a href="https://media.giphy.com/media/XcdoteTfYD7yKxaP5m/giphy.gif"><img src="https://media.giphy.com/media/XcdoteTfYD7yKxaP5m/giphy.gif" title="login"/></a>
 
+Messages: <br/>
+<a href="https://media.giphy.com/media/ZBb9QPdO8bbrRo6dkh/giphy.gif"><img src="https://media.giphy.com/media/ZBb9QPdO8bbrRo6dkh/giphy.gif"/></a>
 
 # Notes:
