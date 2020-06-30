@@ -25,6 +25,6 @@ Messages: <br/>
 
 # Notes:
 - This app was created for learning purposes only. <br/>
-- The cocoa pod folder is not included because it was too big <br/>
+- The pods folder is not included because it was too big <br/>
 - This is an app based on the FlashChat Messaging App. <br/>
 - Uses MVC Pattern to organize code
